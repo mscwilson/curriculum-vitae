@@ -1,19 +1,17 @@
-# curriculum-vitae
-My CV
-
-
-
+## Curriculum Vitae
 
 ## Miranda Wilson
 
-I'm a junior full stack Ruby developer looking to focus on back-end. I've --made/achieved stuff-- . I've chosen to move into this career because I love learning and making things, especially when it relates to technical problem-solving.
+I'm a junior full stack Ruby developer looking to focus on back-end. I've --made/achieved stuff-- . I've come from cell biology and am looking forward to learning and solving technical problems in a new field.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit)| Mobile app that calculates carbon emissions for a car journey | React Native, Jest |
+| [**Acebook**](https://github.com/mscwilson/acebook-poke) | Facebook clone | Rails              |
+| [**Miranda Making Things**](https://github.com/mscwilson/blog) | A technical/personal blog about my coding journey | Jekyll              |
+| [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) challenges | Ruby              |
 
 
 ## Skills
@@ -34,8 +32,8 @@ I love to learn new things, the more in-depth and technical the better. I pick u
 **University College London** (2012 - 2020)  
 Postdoctoral Researcher
 - I investigated human cell metabolism, to find out what a molecule present in all our cells does
-- Brought a new technique (CRISPR) to the institute and held workshops on it
-- Contributed to 12 research publications and 4 reviews
+- Brought a new technique (CRISPR) to the Institute and held workshops on it
+- Contributed to 12 research [publications](https://scholar.google.co.uk/citations?hl=en&user=QGM8HrIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F55fwaEBoXoMg2SHNuxiAhedJovNjBzgnuoEyHdgG5zaIv-Yot4D_A8bwFxogjlZeLF642MM0xsKGW-xoadYS54YfCzc3EGa4vgcHRKKgHXKo1Dpw4) and 4 reviews
 - Made a cell line that was licensed by an external company
 - Supervised and instructed several undergrad, masters and PhD students
 
@@ -43,10 +41,10 @@ Postdoctoral Researcher
 
 #### Makers Academy (January - March 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- 12-week coding bootcamp
+  - Learned how to make websites and apps with three different frameworks: Sinatra, Rails, and React Native
+  - Used Test-Driven Development and Agile methodologies
+  - [Four](https://github.com/mscwilson/makersbnb) [different](https://github.com/mscwilson/notes) [group](https://github.com/mscwilson/acebook-poke) [projects](https://github.com/mscwilson/SmellsLikeGreenSpirit)
 
 #### Imperial College London (2007 - 2012)
 
@@ -54,7 +52,7 @@ Postdoctoral Researcher
   - Studied breast cancer cell metabolism and chemotherapeutic resistance
 - MRes in Biomolecular Research
   - Project 1: Analysed prostate cancer cell metabolism using NMR
-  - Project 2: Semi-automated particle tracking in mouse skin cells
+  - Project 2: Semi-automated particle tracking in mouse skin cells ([published](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0854.2011.01283.x))
 
 #### Oxford University, Brasenose College (2003 - 2007)
 
@@ -68,6 +66,6 @@ Postdoctoral Researcher
 ## Hobbies
 
 - Hula hoop dancing
-- Sewing/crafting
+- Sewing/crafting/DIY/gardening
 - Reading, especially sci-fi and literary fiction
-- Board games (my favourite is Dominion) and video games (I loved Witcher 3)
+- Board games (favourite: Dominion) and video games (favourite: Witcher 3)
