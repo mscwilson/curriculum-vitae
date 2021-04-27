@@ -71,4 +71,5 @@ MRes in Biomolecular Research
 ## Contact
 * [GitHub](https://github.com/mscwilson)
 * [LinkedIn](https://www.linkedin.com/in/miranda-wilson-b2196336/)
+* [Miranda Making Things](https://www.mirandawilson.tech/) (my personal site)
 * mirandascwilson@gmail.com
