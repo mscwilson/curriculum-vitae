@@ -18,11 +18,11 @@ I'm a junior backend developer who loves technical problem-solving and being org
 | [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) challenges | Ruby              |
 
 ## Skills
-* **Attention to Detail** I assimilate information very quickly and excel at noticing details and mistakes. This made me a high achieving cell biologist and allowed me to learn coding fast. I was also the de facto copy editor for all my colleagues at my last job.
+* **Attention to Detail** I assimilate information very quickly and excel at noticing details and mistakes. This made me a successful cell biologist and allowed me to learn coding fast. I was also the de facto copy editor for all my colleagues at my last job.
 * **Project Management** My organisational skills have been well tested throughout my PhD and postdoc. I performed over 900 experiments during my postdoc, across multiple simultaneous projects, while also teaching students. I have 20 published papers.
-* **Communication** As a scientist I regularly presented my work within the department, as well as at poster sessions at conferences. During Makers, daily remote pair practising allowed me to level up my ability to explain my thoughts and help others grasp new concepts. I've been told I'm a great teacher and leader.
+* **Communication** As a scientist I regularly presented my work within the department, as well as at poster sessions at conferences. During Makers, daily remote pair programming allowed me to level up my ability to explain my thoughts and help others grasp new concepts. I've been told I'm a great teacher and leader.
 * **Determination** I don't give up easily. My postdoc role was extremely technically challenging and took several years to start providing results. In coding, is there a better feeling than getting a green test after a long struggle with a bug?
-* **Creativity** In the laboratory, I needed to be creative to solve problems and to make sense of my findings. In programming, creativity allows me to write elegant, clean code. In my own time, I love to draw and make things, whether out of fabric, wood, or code.
+* **Creativity** In the laboratory, I needed to be creative to design experiments and to make sense of my findings. When programming, creativity allows me to write elegant, clean code. In my own time, I love to draw and make things, whether out of fabric, wood, or code.
 
 
 ## Experience
