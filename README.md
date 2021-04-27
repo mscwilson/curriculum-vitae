@@ -65,7 +65,7 @@ MRes in Biomolecular Research
 - Hula hoop dancing
 - Sewing/crafting
 - DIY/gardening
-- Reading, especially sci-fi (favourite: Iain M Banks) and literary fiction
+- Reading, especially sci-fi (favourite: Ursula LeGuin) and literary fiction (favourite: Cormac McCarthy)
 - Board games (favourite: Dominion) and video games (favourite: Witcher 3)
 
 ## Contact
