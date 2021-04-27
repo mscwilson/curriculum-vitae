@@ -1,9 +1,10 @@
-## Curriculum Vitae
+# Miranda Wilson
+
+[Projects](#Projects) | [Skills](#Skills) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 
-## Miranda Wilson
 
-I'm a junior backend developer who loves technical problem-solving and being organised. My background is in academic cell biology, so I'm used to difficult challenges, creative thinking, independent learning, and being part of a team. I've --made/achieved stuff-- . I've come from cell biology and am looking forward to learning and solving technical problems in a new field.
+I'm a junior backend developer who loves technical problem-solving and being organised. My background is in academic cell biology, so I'm used to difficult challenges, creative thinking, independent learning, and being part of a team.
 
 ## Projects
 
@@ -15,7 +16,6 @@ I'm a junior backend developer who loves technical problem-solving and being org
 | [**Rock Paper Scissors**](https://github.com/mscwilson/rps-challenge) | Rock, Paper, Scissors webapp  | Sinatra, Ruby, Rspec             |
 | [**Miranda Making Things**](https://github.com/mscwilson/blog) | A technical/personal blog about my coding journey | Jekyll              |
 | [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) challenges | Ruby              |
-
 
 ## Skills
 #### Attention to Detail
@@ -42,14 +42,14 @@ Postdoctoral Researcher
 
 ## Education
 
-#### Makers Academy (January - March 2021)
+**Makers Academy** (January - March 2021)
 
 - 12-week coding bootcamp
   - Learned how to make websites and apps with three different frameworks: Sinatra, Rails, and React Native
   - Used Test-Driven Development and Agile methodologies
   - [Four](https://github.com/mscwilson/makersbnb) [different](https://github.com/mscwilson/notes) [group](https://github.com/mscwilson/acebook-poke) [projects](https://github.com/mscwilson/SmellsLikeGreenSpirit)
 
-#### Imperial College London (2007 - 2012)
+**Imperial College London** (2007 - 2012)
 
 - PhD in Cancer Cell Biology
   - Studied breast cancer cell metabolism and chemotherapeutic resistance
@@ -57,11 +57,11 @@ Postdoctoral Researcher
   - Project 1: Analysed prostate cancer cell metabolism using NMR
   - Project 2: Semi-automated particle tracking in mouse skin cells ([published](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0854.2011.01283.x))
 
-#### Oxford University, Brasenose College (2003 - 2007)
+**Oxford University, Brasenose College** (2003 - 2007)
 
 - MBiochem in Molecular and Cellular Biochemistry
 
-#### Miscellaneous
+**Miscellaneous**
 
  - Two day Software Carpentry workshop, UCL, 2015
  - A/AS levels: Maths (A), Biology (A), Chemistry (A), AS Physics (A), AS Graphic Design (B)
@@ -72,3 +72,8 @@ Postdoctoral Researcher
 - Sewing/crafting/DIY/gardening
 - Reading, especially sci-fi and literary fiction
 - Board games (favourite: Dominion) and video games (favourite: Witcher 3)
+
+## Contact
+* [GitHub](https://github.com/mscwilson)
+* [LinkedIn](https://www.linkedin.com/in/miranda-wilson-b2196336/)
+* mirandascwilson@gmail.com
