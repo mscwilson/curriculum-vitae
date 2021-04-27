@@ -1,8 +1,9 @@
 ## Curriculum Vitae
 
+
 ## Miranda Wilson
 
-I'm a junior full stack Ruby developer looking to focus on back-end. I've --made/achieved stuff-- . I've come from cell biology and am looking forward to learning and solving technical problems in a new field.
+I'm a junior backend developer who loves technical problem-solving and being organised. My background is in academic cell biology, so I'm used to difficult challenges, creative thinking, independent learning, and being part of a team. I've --made/achieved stuff-- . I've come from cell biology and am looking forward to learning and solving technical problems in a new field.
 
 ## Projects
 
@@ -10,6 +11,8 @@ I'm a junior full stack Ruby developer looking to focus on back-end. I've --made
 | ---------------------------- | ----------------- | ----------------- |
 | [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit)| Mobile app that calculates carbon emissions for a car journey (group project) | React Native, Jest |
 | [**Acebook**](https://github.com/mscwilson/acebook-poke) | Facebook clone (group project) | Rails, Rspec              |
+| [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator | JavaScript, jQuery, Jasmine             |
+| [**Rock Paper Scissors**](https://github.com/mscwilson/rps-challenge) | Rock, Paper, Scissors webapp  | Sinatra, Ruby, Rspec             |
 | [**Miranda Making Things**](https://github.com/mscwilson/blog) | A technical/personal blog about my coding journey | Jekyll              |
 | [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) challenges | Ruby              |
 
