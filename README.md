@@ -8,8 +8,8 @@ I'm a junior full stack Ruby developer looking to focus on back-end. I've --made
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit)| Mobile app that calculates carbon emissions for a car journey | React Native, Jest |
-| [**Acebook**](https://github.com/mscwilson/acebook-poke) | Facebook clone | Rails, Rspec              |
+| [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit)| Mobile app that calculates carbon emissions for a car journey (group project) | React Native, Jest |
+| [**Acebook**](https://github.com/mscwilson/acebook-poke) | Facebook clone (group project) | Rails, Rspec              |
 | [**Miranda Making Things**](https://github.com/mscwilson/blog) | A technical/personal blog about my coding journey | Jekyll              |
 | [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) challenges | Ruby              |
 
