@@ -18,7 +18,7 @@ I'm a junior backend developer who loves technical problem-solving and being org
 | [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) challenges | Ruby              |
 
 ## Skills
-#### Attention to Detail
+* **Attention to Detail** I assimilate information very quickly and excel at noticing details and mistakes. I was the defacto copy editor for all my laboratory's output.
 Noticing small details has always been a skill of mine. My ability to notice stray semi-colons and repeated words soon led my laboratory boss to add "copy-editor" to my postdoc job description. The same keenness also helped me keep track of results and reagents, and to learn coding easily.
 
 #### Project Management
