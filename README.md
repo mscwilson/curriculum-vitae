@@ -4,7 +4,7 @@
 
 
 
-I'm a junior backend developer who loves technical challenges and being organised. My background is in academic cell biology; I realised that my favourite aspect of science was the technical problem-solving, and chose to move into coding to learn about a new set of problems. From the lab I'm used to independent learning and working, creative thinking, and being part of a team. I'm strongly motivated by the satisfaction of a job well done, especially if it involves making something.
+I'm a junior backend developer who loves technical challenges and being organised. My background is in academic cell biology; I realised that my favourite aspect of science was the technical problem-solving, and chose to move into coding to learn about a new set of problems. From the laboratory, I'm used to independent learning and working, creative thinking, and being part of a team. Blogging about my coding journey has given me a way to share my excitement about the new things I'm learning (e.g. [dependency injection](https://www.mirandawilson.tech/blog/2021/03/13/bank-gilded-rose/), or [setting up ActiveRecord](https://www.mirandawilson.tech/blog/2021/02/01/walkthrough-chitter-orm/)). I'm strongly motivated by the satisfaction of a job well done, especially if it involves making something.
 
 ## Projects
 
@@ -14,7 +14,7 @@ I'm a junior backend developer who loves technical challenges and being organise
 | [**Acebook**](https://github.com/mscwilson/acebook-poke) (group project)  | Facebook-inspired social platform. I learned how gems such as Devise or acts-as-favoritor, and an Agile workflow, can speed up development. | Rails, Rspec              |
 | [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator. This project pushed me to improve my CSS knowledge. | JavaScript, jQuery, Jasmine             |
 | [**Rock Paper Scissors**](https://github.com/mscwilson/rps-challenge) | I kept my code clean by having the logic in the Model layer. I aimed to provide an enjoyable user experience by focusing on the design.  | Sinatra, Ruby, Rspec             |
-| [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) puzzles. Needing to use recursion for some solutions was very challenging. I was proud that I managed to complete half of the 2020 problems. | Ruby              |
+| [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) puzzles. Needing recursion for some solutions was very challenging. I was proud that I managed to complete half of the 2020 problems. | Ruby              |
 
 ## Skills
 * **Attention to Detail** I assimilate information very quickly and excel at noticing details and mistakes. This made me a successful cell biologist and allowed me to learn coding fast. I was also the de facto copy editor for all my colleagues at my last job.  
@@ -23,7 +23,7 @@ I'm a junior backend developer who loves technical challenges and being organise
   
 * **Communication** As a scientist I regularly presented my work within the department, as well as at poster sessions at conferences. During Makers, daily remote pair programming allowed me to level up my ability to explain my thoughts and help others grasp new concepts. I've been told I'm a great teacher and leader.  
   
-* **Determination** I don't give up easily. My postdoc role was extremely technically challenging and took several years to start providing results. I enjoy the challenge of bug-fixing and learning newXXXX   
+* **Determination** I don't give up easily. I'm happy to keep working on bugs and difficult new tasks. My postdoc role was extremely technically challenging and took several years to start providing results.  
   
 * **Creativity** In the laboratory, I needed to be creative to design experiments and to make sense of my findings. When programming, creativity allows me to write "[clean and elegant](2021-03-22-Yellow%20Farfetchd%2026-feedback.pdf)" code. In my own time, I love to draw and make things, whether out of fabric, wood, or code.  
 
@@ -42,6 +42,7 @@ Postdoctoral Researcher
 **Makers Academy** 12-week coding bootcamp (January - March 2021)
   - Learned how to make websites and apps in Ruby and JavaScript, with three different frameworks: Sinatra, Rails, and React Native
   - Used Test-Driven Development and Agile methodologies
+  - Honed previously-used skills (self-led learning, growth mindset, empathy and teamwork) in a new tech setting
   - [Four](https://github.com/mscwilson/makersbnb) [different](https://github.com/mscwilson/notes) [group](https://github.com/mscwilson/acebook-poke) [projects](https://github.com/mscwilson/SmellsLikeGreenSpirit)
   
 
@@ -69,7 +70,7 @@ MRes in Biomolecular Research
 - Sewing/crafting (currently making: a studded jacket)
 - DIY/gardening (most excited about growing: peas)
 - Reading, especially sci-fi (favourite: Ursula LeGuin) and literary fiction (favourite: Cormac McCarthy)
-- Board games (favourite: Dominion) and video games (favourite: Witcher 3)
+- Board games (favourite: Dominion) and video games (favourite: The Witcher 3)
 
 ## Contact
 * [GitHub](https://github.com/mscwilson)
