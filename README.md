@@ -4,7 +4,7 @@
 
 
 
-I'm a junior backend developer who loves technical challenges and being organised. My background is in academic cell biology; I realised that my favourite aspect of science was the technical problem-solving, and chose to move into coding to learn about a new set of problems. From the laboratory, I'm used to independent learning and working, creative thinking, and being part of a team. Blogging about my coding journey has given me a way to share my excitement about the new things I'm learning (e.g. [dependency injection](https://www.mirandawilson.tech/blog/2021/03/13/bank-gilded-rose/), or [setting up ActiveRecord](https://www.mirandawilson.tech/blog/2021/02/01/walkthrough-chitter-orm/)). I'm strongly motivated by the satisfaction of a job well done, especially if it involves making something.
+I'm a junior backend developer and [Makers](https://makers.tech) graduate who loves technical challenges and being organised. My background is in academic cell biology; I realised that my favourite aspect of science was the technical problem-solving, and chose to move into coding to learn about a new set of problems. From the laboratory, I'm used to independent learning and working, creative thinking, and being part of a team. Blogging about my coding journey has given me a way to share my excitement about the new things I'm learning (e.g. [dependency injection](https://www.mirandawilson.tech/blog/2021/03/13/bank-gilded-rose/), or [setting up ActiveRecord](https://www.mirandawilson.tech/blog/2021/02/01/walkthrough-chitter-orm/)). I'm strongly motivated by the satisfaction of a job well done, especially if it involves making something.
 
 ## Projects
 
@@ -23,9 +23,9 @@ I'm a junior backend developer who loves technical challenges and being organise
   
 * **Communication** As a scientist I regularly presented my work within the department, as well as at poster sessions at conferences. During Makers, daily remote pair programming allowed me to level up my ability to explain my thoughts and help others grasp new concepts. I've been told I'm a great teacher and leader.  
   
-* **Determination** I don't give up easily. I'm happy to keep working on bugs and difficult new tasks. My postdoc role was extremely technically challenging and took several years to start providing results.  
+* **Determination** I don't give up easily. I'm happy to keep working on bugs and difficult tasks. My postdoc role was extremely technically challenging and took several years to start providing results.  
   
-* **Creativity** In the laboratory, I needed to be creative to design experiments and to make sense of my findings. When programming, creativity allows me to write "[clean and elegant](2021-03-22-Yellow%20Farfetchd%2026-feedback.pdf)" code. In my own time, I love to draw and make things, whether out of fabric, wood, or code.  
+* **Creativity** In the laboratory, I needed to be creative to design experiments and to make sense of my findings. When programming, creativity allows me to write (according to a reviewer) "[clean and elegant](2021-03-22-Yellow%20Farfetchd%2026-feedback.pdf)" code. In my own time, I love to draw and make things, whether out of fabric, wood, or code.  
 
 
 ## Experience
@@ -42,6 +42,7 @@ Postdoctoral Researcher
 **Makers Academy** 12-week coding bootcamp (January - March 2021)
   - Learned how to make websites and apps in Ruby and JavaScript, with three different frameworks: Sinatra, Rails, and React Native
   - Used Test-Driven Development and Agile methodologies
+  - [Assessed](2021-03-22-Yellow%20Farfetchd%2026-feedback.pdf) by an external process reviewer as having strong skills
   - Honed previously-used skills (self-led learning, growth mindset, empathy and teamwork) in a new tech setting
   - [Four](https://github.com/mscwilson/makersbnb) [different](https://github.com/mscwilson/notes) [group](https://github.com/mscwilson/acebook-poke) [projects](https://github.com/mscwilson/SmellsLikeGreenSpirit)
   
