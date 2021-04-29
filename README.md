@@ -32,19 +32,19 @@ I'm a junior backend developer and [Makers](https://makers.tech) graduate who lo
 
 **University College London** (2012 - 2020)  
 Postdoctoral Researcher
-- Investigated human cell metabolism
-- Brought a new technique (CRISPR) to the Institute and held workshops on it
-- Contributed to 12 research [publications](https://scholar.google.co.uk/citations?hl=en&user=QGM8HrIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F55fwaEBoXoMg2SHNuxiAhedJovNjBzgnuoEyHdgG5zaIv-Yot4D_A8bwFxogjlZeLF642MM0xsKGW-xoadYS54YfCzc3EGa4vgcHRKKgHXKo1Dpw4) and 5 reviews
-- Supervised and instructed several undergrad, Masters and PhD students
+* Investigated human cell metabolism
+* Brought a new technique (CRISPR) to the Institute and held workshops on it
+* Contributed to 12 research [publications](https://scholar.google.co.uk/citations?hl=en&user=QGM8HrIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F55fwaEBoXoMg2SHNuxiAhedJovNjBzgnuoEyHdgG5zaIv-Yot4D_A8bwFxogjlZeLF642MM0xsKGW-xoadYS54YfCzc3EGa4vgcHRKKgHXKo1Dpw4) and 5 reviews
+* Supervised and instructed several undergrad, Masters and PhD students
 
 ## Education
 
 **Makers Academy** 12-week coding bootcamp (January - March 2021)
-  - Learned how to make websites and apps in Ruby and JavaScript, with three different frameworks: Sinatra, Rails, and React Native
-  - Used Test-Driven Development and Agile methodologies
-  - [Assessed](2021-03-22-Yellow%20Farfetchd%2026-feedback.pdf) by an external process reviewer as having strong skills
-  - Honed previously-used skills (self-led learning, growth mindset, empathy and teamwork) in a new tech setting
-  - [Four](https://github.com/mscwilson/makersbnb) [different](https://github.com/mscwilson/notes) [group](https://github.com/mscwilson/acebook-poke) [projects](https://github.com/mscwilson/SmellsLikeGreenSpirit)
+* Learned how to make websites and apps in Ruby and JavaScript, with three different frameworks: Sinatra, Rails, and React Native
+* Used Test-Driven Development and Agile methodologies
+* [Assessed](2021-03-22-Yellow%20Farfetchd%2026-feedback.pdf) by an external process reviewer as having strong skills
+* Honed previously-used skills (self-led learning, growth mindset, empathy and teamwork) in a new tech setting
+* [Four](https://github.com/mscwilson/makersbnb) [different](https://github.com/mscwilson/notes) [group](https://github.com/mscwilson/acebook-poke) [projects](https://github.com/mscwilson/SmellsLikeGreenSpirit)
   
 
 **Software Carpentry** 2 day workshop (June 2015)  
@@ -67,11 +67,11 @@ MRes in Biomolecular Research
 
 ## Hobbies
 
-- Hula hoop dancing (currently working on: leg hooping)
-- Sewing/crafting (currently making: a studded jacket)
-- DIY/gardening (most excited about growing: peas)
-- Reading, especially sci-fi (favourite: Ursula LeGuin) and literary fiction (favourite: Cormac McCarthy)
-- Board games (favourite: Dominion) and video games (favourite: The Witcher 3)
+* Hula hoop dancing (currently working on: leg hooping)
+* Sewing/crafting (currently making: a studded jacket)
+* DIY/gardening (most excited about growing: peas)
+* Reading, especially sci-fi (favourite: Ursula LeGuin) and literary fiction (favourite: Cormac McCarthy)
+* Board games (favourite: Dominion) and video games (favourite: The Witcher 3)
 
 ## Contact
 * [GitHub](https://github.com/mscwilson)
