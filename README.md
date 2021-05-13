@@ -4,7 +4,7 @@
 
 
 
-I'm a junior backend developer and [Makers](https://makers.tech) graduate who loves technical challenges and being organised. My background is in academic cell biology; I realised that my favourite aspect of science was the technical problem-solving, and chose to move into coding to learn about a new set of problems. From the laboratory, I'm used to independent learning and working, creative thinking, and being part of a team. Blogging about my coding journey has given me a way to share my excitement about the new things I'm learning (e.g. [dependency injection](https://www.mirandawilson.tech/blog/2021/03/13/bank-gilded-rose/), or [setting up ActiveRecord](https://www.mirandawilson.tech/blog/2021/02/01/walkthrough-chitter-orm/)). I'm strongly motivated by the satisfaction of a job well done, especially if it involves making something.
+I'm a junior backend developer and [Makers](https://makers.tech) graduate who loves technical challenges and being organised. My background is in academic cell biology, where I made discoveries and developed tools to help others access my research field. I want to move into tech to continue empowering people through innovative technology, while learning new skills. From the laboratory, I'm used to independent learning and working, creative thinking, and being part of a team. Blogging about my coding journey has given me a way to share my excitement about the new things I'm learning (e.g. [dependency injection](https://www.mirandawilson.tech/blog/2021/03/13/bank-gilded-rose/), or [setting up ActiveRecord](https://www.mirandawilson.tech/blog/2021/02/01/walkthrough-chitter-orm/)). I'm strongly motivated by creating useful things, and the satisfaction of a job well done.
 
 ## Projects
 
