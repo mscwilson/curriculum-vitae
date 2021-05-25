@@ -4,12 +4,14 @@
 
 
 
-I'm a junior backend developer and [Makers](https://makers.tech) graduate who loves technical challenges and being organised. My background is in academic cell biology; I realised that my favourite aspect of science was the technical problem-solving, and chose to move into coding to learn about a new set of problems. From the laboratory, I'm used to independent learning and working, creative thinking, and being part of a team. Blogging about my coding journey has given me a way to share my excitement about the new things I'm learning (e.g. [dependency injection](https://www.mirandawilson.tech/blog/2021/03/13/bank-gilded-rose/), or [setting up ActiveRecord](https://www.mirandawilson.tech/blog/2021/02/01/walkthrough-chitter-orm/)). I'm strongly motivated by the satisfaction of a job well done, especially if it involves making something.
+I'm a junior developer and [Makers](https://makers.tech) graduate who loves technical problem-solving. My background is in cell biology, where I made discoveries and developed tools to help others access my research field. I want to move into tech to continue empowering people through innovative technology, while learning new skills.
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Miranda Making Things**](https://github.com/mscwilson/mscwilson.github.io) | I created a responsive site for my blog and portfolio. I share my excitement at the new things I'm learning. | Jekyll, Bootstrap |
 | [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit) (group project) | Mobile app that calculates carbon emissions for a car journey. I motivated my teammates to persevere when we were blocked, e.g. with asynchronous storage. | React Native, Jest |
 | [**Acebook**](https://github.com/mscwilson/acebook-poke) (group project)  | Facebook-inspired social platform. I learned how gems such as Devise or acts-as-favoritor, and an Agile workflow, can speed up development. | Rails, Rspec              |
 | [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator. This project pushed me to improve my CSS knowledge. | JavaScript, jQuery, Jasmine             |
