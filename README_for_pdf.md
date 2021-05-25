@@ -1,11 +1,12 @@
 # Miranda Wilson
 
-I'm a junior backend developer and [Makers](https://makers.tech) graduate who loves technical challenges and being organised. My background is in academic cell biology, so I'm used to independent learning and working, creative thinking, and being part of a team. I'm strongly motivated by the satisfaction of a job well done, especially if it involves making something.
+I'm a junior backend developer and [Makers](https://makers.tech) graduate who loves technical challenges and being organised. My background is in academic cell biology, so I'm used to independent learning and working, creative thinking, and being part of a team. I'm strongly motivated by the satisfaction of a job well done.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Miranda Making Things**](https://github.com/mscwilson/mscwilson.github.io) | My blog and portfolio. | Jekyll, Bootstrap |
 | [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit) (group project) | Mobile app that calculates carbon emissions for a car journey. I motivated my teammates to persevere, e.g. with asynchronous storage. | React Native, Jest |
 | [**Acebook**](https://github.com/mscwilson/acebook-poke) (group project)  | Facebook-inspired social platform. I learned how gems such as Devise or acts-as-favoritor, and an Agile workflow, can speed up development. | Rails, Rspec              |
 | [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator. This project pushed me to improve my CSS knowledge. | JavaScript, jQuery, Jasmine             |

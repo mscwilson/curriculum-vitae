@@ -11,10 +11,10 @@ I'm a junior developer and [Makers](https://makers.tech) graduate who loves tech
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Miranda Making Things**](https://github.com/mscwilson/mscwilson.github.io) | I created a responsive site for my blog and portfolio. I share my excitement at the new things I'm learning. | Jekyll, Bootstrap |
+| [**Miranda Making Things**](https://github.com/mscwilson/mscwilson.github.io) | I designed and created a responsive site for my blog and portfolio. I share my excitement at the new things I'm learning. | Jekyll, Bootstrap |
 | [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit) (group project) | Mobile app that calculates carbon emissions for a car journey. I motivated my teammates to persevere when we were blocked, e.g. with asynchronous storage. | React Native, Jest |
 | [**Acebook**](https://github.com/mscwilson/acebook-poke) (group project)  | Facebook-inspired social platform. I learned how gems such as Devise or acts-as-favoritor, and an Agile workflow, can speed up development. | Rails, Rspec              |
-| [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator. This project pushed me to improve my CSS knowledge. | JavaScript, jQuery, Jasmine             |
+| [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator. I designed a great user experience. | JavaScript, jQuery, Jasmine             |
 | [**Rock Paper Scissors**](https://github.com/mscwilson/rps-challenge) | I kept my code clean by having the logic in the Model layer. I aimed to provide an enjoyable user experience by focusing on the design.  | Sinatra, Ruby, Rspec             |
 | [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) puzzles. Needing recursion for some solutions was very challenging. I was proud that I managed to complete half of the 2020 problems. | Ruby              |
 
@@ -36,14 +36,14 @@ I'm a junior developer and [Makers](https://makers.tech) graduate who loves tech
 Postdoctoral Researcher
 * Investigated human cell metabolism
 * Brought a new technique (CRISPR) to the Institute and held workshops on it
-* Contributed to 12 research [publications](https://scholar.google.co.uk/citations?hl=en&user=QGM8HrIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F55fwaEBoXoMg2SHNuxiAhedJovNjBzgnuoEyHdgG5zaIv-Yot4D_A8bwFxogjlZeLF642MM0xsKGW-xoadYS54YfCzc3EGa4vgcHRKKgHXKo1Dpw4) and 5 reviews
+* Co-authored 12 research [publications](https://scholar.google.co.uk/citations?hl=en&user=QGM8HrIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F55fwaEBoXoMg2SHNuxiAhedJovNjBzgnuoEyHdgG5zaIv-Yot4D_A8bwFxogjlZeLF642MM0xsKGW-xoadYS54YfCzc3EGa4vgcHRKKgHXKo1Dpw4) and 5 reviews
 * Supervised and instructed several undergrad, Masters and PhD students
 
 ## Education
 
 **Makers Academy** 12-week coding bootcamp (January - March 2021)
 * Learned how to make websites and apps in Ruby and JavaScript, with three different frameworks: Sinatra, Rails, and React Native
-* Used Test-Driven Development and Agile methodologies
+* Test-Driven Development and Agile methodologies
 * [Assessed](2021-03-22-Yellow%20Farfetchd%2026-feedback.pdf) by an external process reviewer as having strong skills
 * Honed previously-used skills (self-led learning, growth mindset, empathy and teamwork) in a new tech setting
 * [Four](https://github.com/mscwilson/makersbnb) [different](https://github.com/mscwilson/notes) [group](https://github.com/mscwilson/acebook-poke) [projects](https://github.com/mscwilson/SmellsLikeGreenSpirit)
