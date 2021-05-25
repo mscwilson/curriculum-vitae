@@ -11,12 +11,13 @@ I'm a junior developer and [Makers](https://makers.tech) graduate who loves tech
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Miranda Making Things**](https://github.com/mscwilson/mscwilson.github.io) | I designed and created a responsive site for my blog and portfolio. I share my excitement at the new things I'm learning. | Jekyll, Bootstrap |
-| [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit) (group project) | Mobile app that calculates carbon emissions for a car journey. I motivated my teammates to persevere when we were blocked, e.g. with asynchronous storage. | React Native, Jest |
-| [**Acebook**](https://github.com/mscwilson/acebook-poke) (group project)  | Facebook-inspired social platform. I learned how gems such as Devise or acts-as-favoritor, and an Agile workflow, can speed up development. | Rails, Rspec              |
-| [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator. I designed a great user experience. | JavaScript, jQuery, Jasmine             |
-| [**Rock Paper Scissors**](https://github.com/mscwilson/rps-challenge) | I kept my code clean by having the logic in the Model layer. I aimed to provide an enjoyable user experience by focusing on the design.  | Sinatra, Ruby, Rspec             |
-| [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) puzzles. Needing recursion for some solutions was very challenging. I was proud that I managed to complete half of the 2020 problems. | Ruby              |
+| [**Miranda Making Things**](https://github.com/mscwilson/mscwilson.github.io) | I designed and created a responsive site for my blog and portfolio. My blog gives me a space to share my excitement at the new things I'm learning. | Jekyll, Bootstrap |
+| [**Spring Onion**](https://github.com/mscwilson/SmellsLikeGreenSpirit) (group project) | Environmentally-focused mobile app that calculates carbon emissions for a car journey. I motivated my teammates to persevere when we were blocked, e.g. with asynchronous API calls. | React Native, Jest |
+| [**Acebook**](https://github.com/mscwilson/acebook-poke) (group project)  | Facebook-inspired social platform. I succeeded in setting up Continuous Deployment for the project, and experienced how an Agile workflow can speed up development. | Rails, Rspec              |
+| [**Bowling Scorecard**](https://github.com/mscwilson/bowling) | 10-pin bowling score calculator. I focused on providing a great user experience through CSS. | JavaScript, jQuery, Jasmine             |
+| [**Notes**](https://github.com/mscwilson/notes) (group project) | A vanilla JavaScript Single Page notes App. I guided the note storage solution. | JavaScript             |
+| [**Rock Paper Scissors**](https://github.com/mscwilson/rps-challenge) | My first experience with the MVP pattern. I drew pictures to improve the game.  | Sinatra, Ruby, Rspec             |
+| [**Advent of Code 2020**](https://github.com/mscwilson/AdventOfCode2020) | My solutions for the first 13 [Advent of Code 2020](https://adventofcode.com/2020) algorithmic puzzles. I was proud that I managed to complete half of the 2020 problems, especially those needing recursive solutions. | Ruby              |
 
 ## Skills
 * **Attention to Detail** I assimilate information very quickly and excel at noticing details and mistakes. This made me a successful cell biologist and allowed me to learn coding fast. I was also the de facto copy editor for all my colleagues at my last job.  
@@ -68,7 +69,6 @@ MRes in Biomolecular Research
 
 
 ## Hobbies
-
 * Hula hoop dancing (currently working on: leg hooping)
 * Sewing/crafting (currently making: a studded jacket)
 * DIY/gardening (most excited about growing: peas)
