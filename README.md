@@ -24,7 +24,7 @@ I'm a junior developer and [Makers](https://makers.tech) graduate who loves tech
   
 * **Project Management** My organisational skills have been well tested throughout my academic career. I performed over 900 experiments during my postdoc, across multiple simultaneous projects, while also teaching students. I have 20 published papers.  
   
-* **Communication** As a scientist I regularly presented my work within the department, as well as at poster sessions at conferences. During Makers, daily remote pair programming allowed me to level up my ability to explain my thoughts and help others grasp new concepts. I've been told I'm a great teacher and leader.  
+* **Communication** During Makers, daily remote pair programming allowed me to level up my ability to explain my thoughts and help others grasp new concepts. As a scientist I regularly presented my work within the department, as well as at poster sessions at conferences. I've been told I'm a great teacher and leader.  
   
 * **Determination** I don't give up easily. I'm happy to keep working on bugs and difficult tasks. My postdoc role was extremely technically challenging and took several years to start providing results.  
   
@@ -39,6 +39,7 @@ Postdoctoral Researcher
 * Brought a new technique (CRISPR) to the Institute and held workshops on it
 * Co-authored 12 research [publications](https://scholar.google.co.uk/citations?hl=en&user=QGM8HrIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F55fwaEBoXoMg2SHNuxiAhedJovNjBzgnuoEyHdgG5zaIv-Yot4D_A8bwFxogjlZeLF642MM0xsKGW-xoadYS54YfCzc3EGa4vgcHRKKgHXKo1Dpw4) and 5 reviews
 * Supervised and instructed several undergrad, Masters and PhD students
+* Presented work at two international conferences
 
 ## Education
 
